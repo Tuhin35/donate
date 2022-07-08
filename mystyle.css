@@ -37,16 +37,21 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
   .help{
     margin: auto;
     width: 50%;
-
+    font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   
   }
 
   .box1 p{
     text-align: start;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
   }
 
   .d100{
@@ -61,6 +66,8 @@
 .sceond-part{
 
 margin: 20px;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
 
 
 }
@@ -69,6 +76,8 @@ margin: 20px;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif; 
   }
 
   .box1{
@@ -79,16 +88,21 @@ margin: 20px;
   text-align: start;
    padding: 30px 0px;
   margin: 22px;
+  font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Poppins', sans-serif;
   }
   
 .extra{
     margin: auto;
     width: 35%;
     padding: 5px;
-
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
   .third-part{
     margin-bottom: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
   }
 
   .pic{
@@ -101,6 +115,8 @@ margin: 20px;
     width: 40%;
     padding: 100px;
     display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
   }
   .footer{
     margin-top: 100px;
@@ -108,4 +124,7 @@ margin: 20px;
     color: white;
     padding-top: 30px;
     padding-bottom: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
   }
+  
